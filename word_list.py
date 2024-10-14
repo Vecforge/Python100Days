@@ -1,0 +1,9 @@
+'''Module returns hangman word list'''
+
+def hang_list():
+    '''Function returns hangman word list'''
+    x = "abruptly,absurd,abyss,affix,askew,avenue,awkward,axiom,bagpipes,bandwagon,bankrupt,batch,bawdy,beekeeper,bikini,blizzard,boggle,bookworm,boxcar,boxful,buckaroo,buffalo,buffoon,buxom,buzzard,buzzing,buzzwords,caliph,chaffeur,chimpanzee,cockiness,cozy,croquet,curacao,cycle,daiquiri,dirndl,disavow,dizzying,duplex,dwarves,embezzle,equip,espionage,euouae,exodus,faking,fishhook,fixable,fjord,flapjack,flopping,fluffiness,flyby,foxglove,frazzled,frizzled,fuchsia,funny,gabby,galaxy,galvanize,gazebo,giaour,gizmo,glowworm,glyph,gnarly,gnostic,gossip,haiku,haphazard,hyphen,iatrogenic,icebox,injury,ivory,ivy,jackpot,jaundice,jawbreaker,jaywalk,jazziest,jazzy,jelly,jigsaw,jinx,jockey,jogging,jovial,joyful,juicy,jukebox,jumbo,kayak,kazoo,keyhole,khaki,kilobyte,kiosk,kiwifruit,klutz,knapsack,larynx,lengths,lucky,luxury,lymph,marquis,matrix,megahertz,microwave,mnemonic,mystify,naphtha,nightclub,nowadays,oxidize,oxygen,pajama,peekaboo,phlegm,pizazz,pneumonia,polyphony,pshaw,puppy,puzzling,quartz,queue,quixotic,quiz,quizzes,quorum,razzmatazz,rhubarb,rhythm,rickshaw,schnapps,scratch,shiv,sphinx,spritz,squawk,staff,strength,strengths,stretch,stronghold,stymied,subway,swivel,syndrome,thriftless,thumbscrew,topaz,transcript,transgress,transplant,triphthong,twelfth,twelfths,unknown,unworthy,unzip,uptown,vaporize,vixen,vodka,voodoo,vortex,voyeurism,walkway,waltz,wave,wavy,waxy,wellspring,wheezy,whiskey,whizzing,whomever,wimpy,witchcraft,wizard,woozy,wristwatch,wyvern,xylophone,yachtsman,yippee,yoked,youthful,zealous,zigzag,zodiac,zombie"
+    return x.split(',')
+
+alphabet_list = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
+    
